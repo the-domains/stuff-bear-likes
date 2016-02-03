@@ -4,7 +4,7 @@
         <description><![CDATA[Stuff Bear Likes]]></description>
         <link>https://thegrid.ai/stuff-bear-likes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 00:36:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 00:50:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stuff-bear-likes/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/stuff-bear-likes/59d12cd6-ca99-4074-9999-c080367b13f0/index.html</link>
             <guid isPermaLink="false">59d12cd6-ca99-4074-9999-c080367b13f0</guid>
             <pubDate>Tue, 02 Feb 2016 17:01:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68e01bde-32d0-4c7f-b0ae-4b7cc34fc756.png">]]></description>
-            <link>https://thegrid.ai/stuff-bear-likes/668f8f73-effb-41d9-bf4f-d05f40e966d0/index.html</link>
-            <guid isPermaLink="false">668f8f73-effb-41d9-bf4f-d05f40e966d0</guid>
-            <pubDate>Wed, 03 Feb 2016 00:34:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
